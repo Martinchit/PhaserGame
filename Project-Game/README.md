@@ -2,7 +2,8 @@
 
 ## Phaser Game
 
-- [__Check it online__](petercatchicecream.surge.sh)
+- __Check it online__
+petercatchicecream.surge.sh
 
 - There are four stages
     1. `Beach`
@@ -34,4 +35,3 @@
 
 # This game supports mobile version as well
 
-# [__Let's play__](petercatchicecream.surge.sh)
